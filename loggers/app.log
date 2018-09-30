@@ -1,0 +1,51 @@
+2018-09-30 10:43:37,130 INFO c.i.l.w.Log4jLogger [main] Starting 4 spacecraft engines ...
+2018-09-30 10:43:37,187 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop04.Log4jAppenderLogger$$Lambda$1/1514160588@4bb4de6a
+2018-09-30 10:43:37,187 INFO c.i.l.w.Log4jLogger [main] Engine 1 started successfully
+2018-09-30 10:43:37,187 INFO c.i.l.w.Log4jLogger [main] Activating full power on engine: 1
+2018-09-30 10:43:37,187 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop04.Log4jAppenderLogger$$Lambda$1/1514160588@7ba18f1b
+2018-09-30 10:43:37,187 WARN c.i.l.w.Log4jLogger [main] Problem with engine 2, please check again!
+2018-09-30 10:43:37,187 INFO c.i.l.w.Log4jLogger [main] Restarting engine: 2
+2018-09-30 10:43:37,188 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop04.Log4jAppenderLogger$$Lambda$1/1514160588@2f8f5f62
+2018-09-30 10:43:37,189 ERROR c.i.l.w.Log4jLogger [main] Engine 2 is not working. Mission failed!
+2018-09-30 10:43:37,189 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop04.Log4jAppenderLogger$$Lambda$1/1514160588@8b87145
+2018-09-30 10:43:37,189 WARN c.i.l.w.Log4jLogger [main] Problem with engine 3, please check again!
+2018-09-30 10:43:37,189 INFO c.i.l.w.Log4jLogger [main] Restarting engine: 3
+2018-09-30 10:43:37,190 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop04.Log4jAppenderLogger$$Lambda$1/1514160588@6483f5ae
+2018-09-30 10:43:37,190 ERROR c.i.l.w.Log4jLogger [main] Engine 3 is not working. Mission failed!
+2018-09-30 10:43:37,190 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop04.Log4jAppenderLogger$$Lambda$1/1514160588@b9afc07
+2018-09-30 10:43:37,190 WARN c.i.l.w.Log4jLogger [main] Problem with engine 4, please check again!
+2018-09-30 10:43:37,190 INFO c.i.l.w.Log4jLogger [main] Restarting engine: 4
+2018-09-30 10:43:37,190 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop04.Log4jAppenderLogger$$Lambda$1/1514160588@382db087
+2018-09-30 10:43:37,190 INFO c.i.l.w.Log4jLogger [main] Number of active engines: 1/4
+2018-09-30 10:44:16,475 INFO c.i.l.w.Log4jLogger [main] Starting 4 spacecraft engines ...
+2018-09-30 10:44:16,542 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop05.Log4jFileAppenderLogger$$Lambda$1/1514160588@4bb4de6a
+2018-09-30 10:44:16,542 INFO c.i.l.w.Log4jLogger [main] Engine 1 started successfully
+2018-09-30 10:44:16,543 INFO c.i.l.w.Log4jLogger [main] Activating full power on engine: 1
+2018-09-30 10:44:16,543 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop05.Log4jFileAppenderLogger$$Lambda$1/1514160588@7ba18f1b
+2018-09-30 10:44:16,543 INFO c.i.l.w.Log4jLogger [main] Engine 2 started successfully
+2018-09-30 10:44:16,543 INFO c.i.l.w.Log4jLogger [main] Activating full power on engine: 2
+2018-09-30 10:44:16,543 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop05.Log4jFileAppenderLogger$$Lambda$1/1514160588@2f8f5f62
+2018-09-30 10:44:16,543 WARN c.i.l.w.Log4jLogger [main] Problem with engine 3, please check again!
+2018-09-30 10:44:16,543 INFO c.i.l.w.Log4jLogger [main] Restarting engine: 3
+2018-09-30 10:44:16,543 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop05.Log4jFileAppenderLogger$$Lambda$1/1514160588@1068e947
+2018-09-30 10:44:16,544 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop05.Log4jFileAppenderLogger$$Lambda$1/1514160588@7dc222ae
+2018-09-30 10:44:16,544 WARN c.i.l.w.Log4jLogger [main] Problem with engine 4, please check again!
+2018-09-30 10:44:16,544 INFO c.i.l.w.Log4jLogger [main] Restarting engine: 4
+2018-09-30 10:44:16,544 INFO c.i.l.w.Log4jLogger [main] com.infoshareacademy.loggers.workshop05.Log4jFileAppenderLogger$$Lambda$1/1514160588@aecb35a
+2018-09-30 10:44:16,544 INFO c.i.l.w.Log4jLogger [main] Number of active engines: 2/4
+2018-09-30 10:53:30,662 INFO c.i.l.w.Slf4jLogger [main] Starting 4 spacecraft engines ...
+2018-09-30 10:53:30,725 INFO c.i.l.w.Slf4jLogger [main] Engine 1 started
+2018-09-30 10:53:30,726 INFO c.i.l.w.Slf4jLogger [main] Engine 1 started successfully
+2018-09-30 10:53:30,726 INFO c.i.l.w.Slf4jLogger [main] Activating full power on engine: 1
+2018-09-30 10:53:30,726 INFO c.i.l.w.Slf4jLogger [main] Engine 2 started
+2018-09-30 10:53:30,726 INFO c.i.l.w.Slf4jLogger [main] Engine 2 started successfully
+2018-09-30 10:53:30,726 INFO c.i.l.w.Slf4jLogger [main] Activating full power on engine: 2
+2018-09-30 10:53:30,727 INFO c.i.l.w.Slf4jLogger [main] Engine 3 not started
+2018-09-30 10:53:30,727 WARN c.i.l.w.Slf4jLogger [main] Problem with engine 3, please check again!
+2018-09-30 10:53:30,727 INFO c.i.l.w.Slf4jLogger [main] Restarting engine: 3
+2018-09-30 10:53:30,727 INFO c.i.l.w.Slf4jLogger [main] Engine 3 not started
+2018-09-30 10:53:30,729 ERROR c.i.l.w.Slf4jLogger [main] Engine 3 is not working. Mission failed!
+2018-09-30 10:53:30,730 INFO c.i.l.w.Slf4jLogger [main] Engine 4 started
+2018-09-30 10:53:30,730 INFO c.i.l.w.Slf4jLogger [main] Engine 4 started successfully
+2018-09-30 10:53:30,730 INFO c.i.l.w.Slf4jLogger [main] Activating full power on engine: 4
+2018-09-30 10:53:30,730 INFO c.i.l.w.Slf4jLogger [main] Number of active engines: 3/4
