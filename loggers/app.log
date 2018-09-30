@@ -49,3 +49,4 @@
 2018-09-30 10:53:30,730 INFO c.i.l.w.Slf4jLogger [main] Engine 4 started successfully
 2018-09-30 10:53:30,730 INFO c.i.l.w.Slf4jLogger [main] Activating full power on engine: 4
 2018-09-30 10:53:30,730 INFO c.i.l.w.Slf4jLogger [main] Number of active engines: 3/4
+2018-09-30 11:02:17,655 INFO c.i.l.w.Slf4jLogger [main] Final numbers: [20, 40, 60, 80, 100]
